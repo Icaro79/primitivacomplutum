@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://icaro79.github.io/primitivacomplutum/sitemap.xml
