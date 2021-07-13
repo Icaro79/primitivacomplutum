@@ -3,7 +3,7 @@
     <title>Primitiva Complutum</title>
     <link href="https://primitivacomplutum.org/feed.xml" rel="self" />
     <link href="https://primitivacomplutum.org" />
-    <updated>2021-07-06T07:49:57+02:00</updated>
+    <updated>2021-07-13T22:46:25+02:00</updated>
     <author>
         <name>Sandra Azcarraga</name>
     </author>
@@ -42,23 +42,15 @@
         <link href="https://primitivacomplutum.org/patro/"/>
         <id>https://primitivacomplutum.org/patro/</id>
 
-        <updated>2021-07-06T07:49:57+02:00</updated>
+        <updated>2021-07-13T22:46:25+02:00</updated>
             <summary>
                 <![CDATA[
-                     2021 2020 - 2019 2018 2017 2021 Asociación de Antiguos Alumnos 2020 - 2019 2018 2017 
+                     2021 Asociación de Antiguos Alumnos 2020 - 2019 2018 2017 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p> </p>
-<div class="tabset"><input id="tabset_1_description" hidden="" checked="checked" name="tabset_1" type="radio" aria-hidden="true"> <input id="tabset_1_statistics" hidden="" name="tabset_1" type="radio" aria-hidden="true"> <input id="tabset_1_reviews" hidden="" name="tabset_1" type="radio" aria-hidden="true"> <input id="tabset_1_contact" hidden="" name="tabset_1" type="radio" aria-hidden="true">
-<ul hidden="" aria-hidden="true">
-<li><label for="tabset_1_description">2021</label></li>
-<li><label for="tabset_1_statistics">2020 - 2019</label></li>
-<li><label for="tabset_1_reviews">2018</label></li>
-<li><label for="tabset_1_contact">2017</label></li>
-</ul>
-<div>
+                <div>
 <section>
 <h2>2021</h2>
 <table style="border-collapse: collapse; width: 100%;" border="1">
@@ -129,7 +121,7 @@
 </table>
 </section>
 </div>
-<!-- .tabset --></div>
+<!-- .tabset -->
             ]]>
         </content>
     </entry>
